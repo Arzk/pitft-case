@@ -1,6 +1,8 @@
 # pitft-case
 Raspberry Pi case with 3,5" PiTFT and CD drive
 
+![Screenshot](https://dl.dropboxusercontent.com/s/dvgc4gxpnz4iin4/pitft-case-proto.jpg)
+
 Hardware inside:
 - Raspberry Pi 3 Model B
 - WittyPi: http://www.uugear.com/witty-pi-realtime-clock-power-management-for-raspberry-pi/
