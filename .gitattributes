@@ -1,3 +1,4 @@
 pitft-case.skp filter=lfs diff=lfs merge=lfs -text
 preview.stl filter=lfs diff=lfs merge=lfs -text
 assembled.stl filter=lfs diff=lfs merge=lfs -text
+stl/* filter=lfs diff=lfs merge=lfs -text
